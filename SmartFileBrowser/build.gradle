@@ -34,7 +34,7 @@ android {
     }
 }
 group = 'ir.smartdevelopers'
-version = '1.5.2'
+version = '1.0.1'
 
 dependencies {
 
@@ -62,7 +62,7 @@ publishing {
             pom {
                 name = 'smart-file-picker'
                 description = 'pick file easilly'
-                url = 'https://github.com/smartdevelopers-ir/SmartFilePicker'
+                url = 'https://github.com/GariestGary/SmartFilePicker'
 
                 licenses {
                     license {
@@ -78,9 +78,9 @@ publishing {
                     }
                 }
                 scm {
-                    connection = 'scm:git:git://github.com/smartdevelopers-ir/SmartFilePicker.git'
-                    developerConnection = 'scm:git:ssh://github.com/smartdevelopers-ir/SmartFilePicker.git'
-                    url = 'http://github.com/smartdevelopers-ir/SmartFilePicker'
+                    connection = 'scm:git:git://github.com/GariestGary/SmartFilePicker.git'
+                    developerConnection = 'scm:git:ssh://github.com/GariestGary/SmartFilePicker.git'
+                    url = 'https://github.com/GariestGary/SmartFilePicker'
                 }
 
             }
